@@ -1,0 +1,13 @@
+# To use common configuration in %APPDATA%\mintty, simply remove this file
+Term=xterm-256color
+
+ThemeFile=ayu-mirage-dark.minttyrc
+FontHeight=12
+Font=FuraCode NF
+FontWeight=500
+FontSmoothing=partial
+
+Transparency=High
+OpaqueWhenFocused=no
+
+CursorType=line
